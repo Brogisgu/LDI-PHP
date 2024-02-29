@@ -1,0 +1,22 @@
+#banner{
+    width: 900px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    background-color: rgb(182, 165, 165);
+}
+
+#corpo{
+    width: 900px;
+    height: 700px;
+    position: relative;
+    margin: auto;
+    background-color: rgb(38, 70, 20);
+}
+
+a{
+    color:rgb(42, 66, 18);
+    font-size: 30px;
+    font-family: fantasy;
+    text-decoration: none;
+}
